@@ -7,3 +7,5 @@ This a rework of Mahor's pellet extruder v3. Aiming to overcome the following ch
  * **Make it easy to mount to my CR10** - now it mounts directly.
  
 The stl files are kept on here: https://www.thingiverse.com/thing:3032188
+
+See the wiki for assembly instructions.
