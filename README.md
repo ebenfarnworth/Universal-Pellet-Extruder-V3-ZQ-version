@@ -6,6 +6,9 @@ This a rework of Mahor's pellet extruder v3. Aiming to overcome the following ch
  * **Prevent blockage** - shredded waste plastic is very high friction and the pieces of it are very light so it dose not flow very well. 
  * **Make it easy to mount to my CR10** - now it mounts directly.
  
-The stl files are kept on here: https://www.thingiverse.com/thing:3032188
+The stl files are kept on here 
+For the extruder: https://www.thingiverse.com/thing:3032188
+For the sterrer:  https://www.thingiverse.com/thing:3051987
+
 
 See the wiki for assembly instructions.
